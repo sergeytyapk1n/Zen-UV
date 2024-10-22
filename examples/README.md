@@ -12,6 +12,14 @@ Scene from Zen UV Beginner Tutorial video.
 
 [more_info]: # (https://zenmastersteam.github.io/Zen-UV/latest/tutorial/emergency_light/emergency_light_eng/)
 
+### Ropes
+Scene to learn how to unwrap ropes
+
+#### Details
+![ropes](../examples/images/ropes.png)
+
+[//]: # (https://github.com/zen-masters/Zen-UV/raw/master/examples/ZenUV_Ropes_01.zip)
+
 ## Hotspot
 
 ### Bridge 1
